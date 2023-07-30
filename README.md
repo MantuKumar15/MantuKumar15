@@ -151,4 +151,4 @@
 </p>
 
 ## ❤ Views and Followers
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeevrajak&label=Profile%20views&color=0e75b6&style=flat" alt="mantukumar" /> </p>
+ <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeevrajak&label=Profile%20views&color=0e75b6&style=flat" alt="mantukumar" /> </p>-->
