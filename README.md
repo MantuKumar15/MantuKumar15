@@ -133,7 +133,7 @@
  <!-- <a href="https://stackexchange.com/users/28167349/rajeev-rajak"> 
   <img src="https://img.icons8.com/color/60/null/stackoverflow.png"/> </a>  -->
     
-  <a href="https://github.com/Mantu12344" target="_blank">  
+  <a href="https://github.com/MantuKumar15" target="_blank">  
   <img src="https://img.icons8.com/color/60/null/github--v1.png"/></a>
     
   <a href="https://instagram.com/mantusingh5138?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D" target="_blank">
