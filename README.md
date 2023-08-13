@@ -1,4 +1,4 @@
-[logo](https://github.com/Mantu12344/logo_pr/blob/main/Mantu%20Kumar%20Singh.png)
+![logo](https://github.com/Mantu12344/logo_pr/blob/main/Mantu%20Kumar%20Singh.png)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Mantu Kumar</b></h1>
 
